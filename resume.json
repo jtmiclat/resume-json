@@ -1,0 +1,101 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jt Miclat",
+    "label": "Geospatial and Sustainability Engineer",
+    "image": "",
+    "email": "jtmiclat@gmail.com",
+    "url": "https://jtmiclat.me",
+    "summary": "Aspiring Geospatial and Sustainability Engineer",
+    "location": {
+      "countryCode": "PH"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jtmiclat",
+        "url": "https://twitter.com/Jtmiclat"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Jt Miclat",
+        "url": "https://www.linkedin.com/in/jt-miclat-410444143/"
+      },
+      {
+        "network": "Github",
+        "username": "jtmiclat",
+        "url": "https://github.com/jtmiclat"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pez.AI",
+      "location": "Mandaluyong, PH",
+      "description": "Chatbot Startup",
+      "position": "Data Scientist and Software Engineer",
+      "url": "https://pez.ai",
+      "startDate": "2017-08-01",
+      "endDate": "2019-07-01",
+      "summary": "",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ateneo de Manila University",
+      "url": "https://www.ateneo.edu/",
+      "studyType": "Bachelor of Science in Physics",
+      "startDate": "2012-06-01",
+      "endDate": "2017-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Tagalog",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
