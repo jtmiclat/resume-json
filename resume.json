@@ -73,21 +73,58 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Frontend Web Development",
+      "level": "Intermediate",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "React"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Backend Web Development",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Pub Sub",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Postgres",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "Geospatial Engineering",
+      "level": "Intermediate",
+      "keywords": [
+        "Mapboxgl (JS)",
+        "GoogleMaps (JS)",
+        "PostGIS",
+        "GDAL",
+        "OSGEO"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "Master",
+      "keywords": [
+        "Airflow",
+        "Apache Beam/Dataflow",
+        "Spark",
+        "Big Query",
+        "Snowflake"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Kubernetes",
+        "CI/CD",
+        "Terraform",
+        "Google Cloud Platform",
+        "AWS"
       ]
     }
   ],
@@ -103,16 +140,24 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Video Games",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "RPGs",
+        "JRPGs",
+        "Card Games"
+      ]
+    },
+    {
+      "name": "Tabletop games",
+      "keywords": [
+        "Dungeon and Dragons",
+        "Pathfinder"
       ]
     }
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "canonical": "https://raw.githubusercontent.com/jtmiclat/resume-json/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2022-03-14T00:00:00"
   }
 }
