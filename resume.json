@@ -30,6 +30,21 @@
   },
   "work": [
     {
+      "name": "Thinking Machines",
+      "location": "Taguig, PH",
+      "description": "Data Science Consultancy",
+      "position": "Geospatial and Data Engineer",
+      "url": "https://pez.ai",
+      "startDate": "2019-07-01",
+      "summary": "Working as a Geospatial Product Engineer and Data Engineer",
+      "highlights": [
+        "Developing End to End Data Warehous",
+        "Creating Pipelines for automating analysis and processing of Geospatial Data",
+        "Developing Geospatial Web Maps focused on visualizing large amounts of geospatial data",
+        "Developing and Managing Machine Learning Pipelines and APIs"
+      ]
+    },
+    {
       "name": "Pez.AI",
       "location": "Mandaluyong, PH",
       "description": "Chatbot Startup",
@@ -37,11 +52,13 @@
       "url": "https://pez.ai",
       "startDate": "2017-08-01",
       "endDate": "2019-07-01",
-      "summary": "",
+      "summary": "Originally hired as a data scientist, pivoted to focus software engineering work",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Scraped data to be used for machine learning development",
+        "Implemented Sentiment, Named Entity Recognition, and Document Similarity models",
+        "Implemented client facing analytic dashboards",
+        "Developed REST Api and PubSub microservice",
+        "Managed Kubernetes deployments under Google Cloud Platform"
       ]
     }
   ],
