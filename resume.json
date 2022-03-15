@@ -6,7 +6,7 @@
     "image": "https://avatars.githubusercontent.com/u/30991698",
     "email": "jtmiclat@gmail.com",
     "url": "https://jtmiclat.me",
-    "summary": "Aspiring Data and Sustainability Product Engineer",
+    "summary": "Aspiring Data and Geospatial Product Engineer",
     "location": {
       "countryCode": "PH"
     },
@@ -52,7 +52,7 @@
       "url": "https://pez.ai",
       "startDate": "2017-08-01",
       "endDate": "2019-07-01",
-      "summary": "Originally hired as a data scientist, pivoted to focus software engineering work",
+      "summary": "Originally hired as a data scientist, pivoted to focus on software engineering work",
       "highlights": [
         "Scraped data to be used for machine learning development",
         "Implemented Sentiment, Named Entity Recognition, and Document Similarity models",
