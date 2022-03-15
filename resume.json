@@ -3,10 +3,10 @@
   "basics": {
     "name": "Jt Miclat",
     "label": "Geospatial and Sustainability Engineer",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/u/30991698",
     "email": "jtmiclat@gmail.com",
     "url": "https://jtmiclat.me",
-    "summary": "Aspiring Geospatial and Sustainability Engineer",
+    "summary": "Aspiring Data and Sustainability Product Engineer",
     "location": {
       "countryCode": "PH"
     },
@@ -75,12 +75,7 @@
     {
       "name": "Frontend Web Development",
       "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "React"
-      ]
+      "keywords": ["HTML", "CSS", "Javascript", "React"]
     },
     {
       "name": "Backend Web Development",
@@ -141,18 +136,11 @@
   "interests": [
     {
       "name": "Video Games",
-      "keywords": [
-        "RPGs",
-        "JRPGs",
-        "Card Games"
-      ]
+      "keywords": ["RPGs", "JRPGs", "Card Games"]
     },
     {
       "name": "Tabletop games",
-      "keywords": [
-        "Dungeon and Dragons",
-        "Pathfinder"
-      ]
+      "keywords": ["Dungeon and Dragons", "Pathfinder"]
     }
   ],
   "meta": {
