@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jt Miclat",
-    "label": "Data and Geospatial Product Engineer",
+    "label": "Data and Geospatial Engineer",
     "image": "https://avatars.githubusercontent.com/u/30991698",
     "email": "jtmiclat@gmail.com",
     "url": "https://jtmiclat.me",
-    "summary": "Data and Geospatial Product Engineer",
+    "summary": "Aspiring software engineer focusing on geospatial and sustainability solutions.",
     "location": {
       "countryCode": "PH"
     },
@@ -36,12 +36,13 @@
       "position": "Geospatial and Data Engineer",
       "url": "https://thinkingmachin.es",
       "startDate": "2019-07-01",
-      "summary": "Working as a Geospatial Product Engineer and Data Engineer",
+      "summary": "Currently working as part of the sustainability team. Previously worked as a Data Engineer and Geospatial Engineer.",
       "highlights": [
-        "Developing End to End Data Warehous",
-        "Creating Pipelines for automating analysis and processing of Geospatial Data",
-        "Developing Geospatial Web Maps focused on visualizing large amounts of geospatial data",
-        "Developing and Managing Machine Learning Pipelines and APIs"
+        "Leading different geospatial engineering efforts",
+        "Developing end to end data warehouse solution",
+        "Creating pipelines for automating analysis and processing of data",
+        "Developing geospatial web maps focused on large amounts of geospatial data",
+        "Developing and managing machine learning pipelines and APIs"
       ]
     },
     {
@@ -52,7 +53,7 @@
       "url": "https://pez.ai",
       "startDate": "2017-08-01",
       "endDate": "2019-07-01",
-      "summary": "Originally hired as a data scientist, pivoted to focus on software engineering work",
+      "summary": "Originally hired as a data scientist, pivoted to focus on software development and managing devops of the team",
       "highlights": [
         "Scraped data to be used for machine learning development",
         "Implemented Sentiment, Named Entity Recognition, and Document Similarity models",
@@ -92,13 +93,7 @@
     {
       "name": "Geospatial Engineering",
       "level": "Intermediate",
-      "keywords": [
-        "Mapboxgl (JS)",
-        "GoogleMaps (JS)",
-        "PostGIS",
-        "GDAL",
-        "OSGEO"
-      ]
+      "keywords": ["Mapboxgl (JS)", "GoogleMaps (JS)", "PostGIS", "OSGEO"]
     },
     {
       "name": "Data Engineering",
