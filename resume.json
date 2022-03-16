@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jt Miclat",
-    "label": "Geospatial and Sustainability Engineer",
+    "label": "Data and Geospatial Product Engineer",
     "image": "https://avatars.githubusercontent.com/u/30991698",
     "email": "jtmiclat@gmail.com",
     "url": "https://jtmiclat.me",
-    "summary": "Aspiring Data and Geospatial Product Engineer",
+    "summary": "Data and Geospatial Product Engineer",
     "location": {
       "countryCode": "PH"
     },
