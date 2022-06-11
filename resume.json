@@ -36,9 +36,9 @@
       "position": "Geospatial and Data Engineer",
       "url": "https://thinkingmachin.es",
       "startDate": "2019-07-01",
-      "summary": "Currently working as part of the sustainability team. Previously worked as a Data Engineer and Geospatial Engineer.",
+      "summary": "Currently working as part of the sustainability team developing solutions for carbon martket and conservation. Previously worked on data platforms and data warehouse, and web applications.",
       "highlights": [
-        "Leading different geospatial engineering efforts",
+        "Leading different geospatial engineering efforts inclduing upskilling fellow developers and introducing technology.",
         "Developing end to end data warehouse solution",
         "Creating pipelines for automating analysis and processing of data",
         "Developing geospatial web maps focused on large amounts of geospatial data",
@@ -53,7 +53,7 @@
       "url": "https://pez.ai",
       "startDate": "2017-08-01",
       "endDate": "2019-07-01",
-      "summary": "Originally hired as a data scientist, pivoted to focus on software development and managing devops of the team",
+      "summary": "Originally hired as a data scientist, pivoted to focus on software development and managing devops for the team",
       "highlights": [
         "Scraped data to be used for machine learning development",
         "Implemented Sentiment, Named Entity Recognition, and Document Similarity models",
@@ -80,7 +80,7 @@
     },
     {
       "name": "Backend Web Development",
-      "level": "Master",
+      "level": "Advance",
       "keywords": [
         "Pub Sub",
         "Django",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Data Engineering",
-      "level": "Master",
+      "level": "Advance",
       "keywords": [
         "Airflow",
         "Apache Beam/Dataflow",
